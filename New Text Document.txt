@@ -1,0 +1,1 @@
+exiftool "-CreateDate<FileCreateDate" "-FileModifyDate<FileCreateDate" -ext .mp4 -r files
